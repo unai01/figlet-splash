@@ -4,7 +4,7 @@
     "figlet": "^1.2.0"
   },
   "name": "figlet-splash",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Small and quick module for creating figlet-like splash titles for your CLI application with color support",
   "main": "index.js",
   "author": "Unai Mengual @ Tsuki Studios",
